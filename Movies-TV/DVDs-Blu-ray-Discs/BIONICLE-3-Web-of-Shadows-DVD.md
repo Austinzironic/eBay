@@ -1,9 +1,18 @@
-# BIONICLE 3: Web of Shadows (DVD)
+# BIONICLE® 3: Web of Shadows (DVD)
 
 ![Front cover](https://user-images.githubusercontent.com/60803596/173683422-89600a80-4c15-48d3-92b4-f770612ac8ce.jpeg)
 ![Back cover](https://user-images.githubusercontent.com/60803596/173683504-9e1ed97b-2949-4841-a56d-01c36525eb3c.jpeg)
 
-The Web of Shadows concerns the return of the heroic Toa to Metru Nui. There, they find an old enemy has overtaken the great city with the help of Visorak--robotic spiders that can quickly encase anything or anybody in near-indestructible webs. The Toa undergo a bizarre metamorphosis while sealed within strange cocoons, and emerge as clunky-looking machines made up of mismatched parts. Though horrified, they find that they also possess some new powers, which prove essential for their subsequent journey to restore Metru Nui--and themselves.
+## Description
+
+The legendary BIONICLE® heroes are snared in webs of deceit, intrigue, and betrayal in *BIONICLE® 3: WEB OF SHADOWS*. Even more secrets will be revealed from deep within the world of BIONICLE® as the Toa face all-new villains in the most action-packed CGI-animated movie yet. With one final duty to fulfill before they can build their new home on the island of Mata Nui, six great Toa heroes return to Metru Nui and find their once-glorious city shrouded in shadows and overrun by a sinister army of spidery, web-slinging Visorak. Mysteriously transformed into strange beast-like creatures known as Toa Hordika, the Toa realize their mission to rescue the stranded Matoran -- held captive by dark powers -- will be anything but easy. Poisonous foes, extraordinary friends, and epic trials and triumphs are spun into this all-new adventure! Experience *BIONICLE® 3: WEB OF SHADOWS* and discover why future generations hail these Toa as the greatest heroes of all time!
+
+### Bonus Features
+
+- BIONICLE® Explorer -- Go deeper into the characters’ background.
+- BIONICLE® Comic Book -- An exclusive animated version of the popular BIONICLE® Comic Book.
+- Web Movie -- Exciting animated movie from the BIONICLE® website.
+- BIONICLE® 3 extras
 
 **Studio**  
 The LEGO Group
