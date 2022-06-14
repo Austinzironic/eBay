@@ -1,7 +1,7 @@
 # BIONICLE® 3: Web of Shadows (DVD)
 
-![Front cover](https://user-images.githubusercontent.com/60803596/173683422-89600a80-4c15-48d3-92b4-f770612ac8ce.jpeg)
-![Back cover](https://user-images.githubusercontent.com/60803596/173683504-9e1ed97b-2949-4841-a56d-01c36525eb3c.jpeg)
+![Front cover](https://user-images.githubusercontent.com/60803596/173686305-feeeab52-5327-47aa-b0bc-cedb21e00cf9.jpeg)
+![Back cover](https://user-images.githubusercontent.com/60803596/173686359-0188574f-0a38-45fa-9c89-6a8b5b36d4ac.jpeg)
 
 ## Description
 
