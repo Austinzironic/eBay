@@ -22,7 +22,7 @@ Poisonous foes, extraordinary friends, and epic trials and triumphs are spun int
 The LEGO Group
 
 **Region Code**  
-DVD: 1 (U.S./Canada)
+1
 
 **Release Year**  
 2005
