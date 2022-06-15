@@ -18,6 +18,9 @@ Poisonous foes, extraordinary friends, and epic trials and triumphs are spun int
 - Web Movie -- Exciting animated movie from the BIONICLE® website.
 - BIONICLE® 3 extras
 
+**Type**  
+Movie
+
 **Studio**  
 The LEGO Group
 
