@@ -1,7 +1,6 @@
 # *Star Wars: Episode III – Revenge of the Sith* (DVD) (Widescreen)
 
-![Front cover](https://user-images.githubusercontent.com/60803596/174173420-c58726c3-6df0-430e-a12a-43d85615ce27.jpeg)
-![Back cover](https://user-images.githubusercontent.com/60803596/174173812-eefa513c-1192-49bf-990f-46aac7fd149c.jpeg)
+![](https://m.media-amazon.com/images/I/51RHXMVH9YL.jpg)
 
 # Description
 
