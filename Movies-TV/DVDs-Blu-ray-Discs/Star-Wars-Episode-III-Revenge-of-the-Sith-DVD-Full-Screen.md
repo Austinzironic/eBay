@@ -13,7 +13,7 @@ Movie
 **Publisher**  
 20th Century Fox Home Entertainment
 
-**UPC Barcode**  
+**Barcode**  
 024543212768
 
 **Format**  
