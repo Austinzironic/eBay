@@ -18,32 +18,45 @@ Poisonous foes, extraordinary friends, and epic trials and triumphs are spun int
 - Web Movie -- Exciting animated movie from the BIONICLE® website.
 - BIONICLE® 3 extras
 
-**Type**  
-Movie
-
-**Studio**  
-The LEGO Group
-
-**Region Code**  
-1
-
-**Release Year**  
-2005
-
-**UPC**  
-786936273779
-
-**Format**  
-DVD
-
-**Rating**  
-Not Rated
-
-**Genre**  
-Action & Adventure
-
-**Sub-Genre**  
-Animation/Anime
-
-**Release Date**  
-October 11, 2005
+<table>
+<tbody>
+<tr>
+<th>Type</th>
+<td>Movie</td>
+</tr>
+<tr>
+<th>Region Code</th>
+<td>1</td>
+</tr>
+<tr>
+<th>Release Year</th>
+<td>2005</td>
+</tr>
+<tr>
+<th>UPC Barcode</th>
+<td>786936273779</td>
+</tr>
+<tr>
+<th>Publisher</th>
+<td>Buena Vista Home Entertainment</td>
+</tr>
+<tr>
+<th>Format</th>
+<td>DVD</td>
+</tr>
+<tr>
+<th>Rating</th>
+<td>Not Rated</td>
+</tr>
+<tr>
+<th>Genre</th>
+<td>Action &amp; Adventure</td>
+</tr>
+<tr>
+<th>Release Date</th>
+<td>
+  <time datetime="2005-10-11">October 11, 2005</time>
+</td>
+</tr>
+</tbody>
+</table>
