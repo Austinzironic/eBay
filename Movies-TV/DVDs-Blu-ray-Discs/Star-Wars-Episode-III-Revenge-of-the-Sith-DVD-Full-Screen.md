@@ -10,6 +10,9 @@ The STAR WARS saga is now complete on DVD with Episode III REVENGE OF THE SITH. 
 **Type**  
 Movie
 
+**Publisher**  
+20th Century Fox Home Entertainment
+
 **UPC Barcode**  
 024543212768
 
