@@ -42,7 +42,6 @@ The STAR WARS saga is now complete on DVD with Episode III REVENGE OF THE SITH. 
 <td>George Lucas</td>
 </tr>
 <tr>
-<tr>
 <th>Genre</th>
 <td>Sci-Fi &amp; Fantasy</td>
 </tr>
