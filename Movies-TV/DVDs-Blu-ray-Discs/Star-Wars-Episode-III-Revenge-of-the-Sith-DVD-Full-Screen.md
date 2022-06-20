@@ -51,7 +51,7 @@ The STAR WARS saga is now complete on DVD with Episode III REVENGE OF THE SITH. 
 </td>
 </tr>
 <tr>
-<th>Edition</th>
+<th>Features</th>
 <td>Full Screen</td>
 </tr>
 </tbody>
